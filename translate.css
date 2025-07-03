@@ -1,0 +1,21 @@
+#box {
+    height: 400px;
+    width: 400px;
+    background-color: lightblue;
+    position: relative;
+}
+
+#image {
+    height: 100px;
+    width: 150px;
+    top: 50px;
+    left: 100px;
+    position: absolute;
+    z-index: 2;
+} 
+
+button {
+    margin-top: 0px;
+    margin-left: 0px;
+} 
+
